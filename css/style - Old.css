@@ -1,0 +1,384 @@
+p{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+
+a{
+    
+    font-family: 'Open Sans', sans-serif;
+    color: rebeccapurple;
+    font-size: 20px;
+}
+
+h1{
+    
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+h2{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    
+}
+
+ul li{
+     font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+body{
+ 
+background-color: #f9f9f9;
+    
+}
+
+.navbar{
+    
+    background-color: #f9f9f9;
+    overflow:hidden;
+    position: fixed;  
+    width: 250px;
+    height: 30px;
+    padding: 10px 10px 25px 10px;
+    margin: 0px 0 0px 0 ;
+    z-index: 1;
+    top:0;
+    left: 0;
+    transition: 0.1s;
+    
+
+
+    
+}
+
+.navbar a{
+    
+    float: left;
+    color: #373737;
+    text-align: center;
+    padding: 0px 0px;
+    margin: 0px;
+    text-decoration: none;
+    font-size: 26px;
+    padding: 5px;
+    transition: 0.1s;
+
+}
+
+
+
+.navbar ul{
+    
+    margin: 0px 0 0 0;
+    list-style: none;
+    color: black;
+}
+
+.navbar a:hover{
+    
+    background-color: #FF3B3F;
+    color: #F9F9F9;
+    
+}
+
+.side-nav{
+    height: 100%;
+    width:0;
+    position: fixed;
+    z-index: 1;
+    top:0;
+    left: 0;
+    background-color: #f9f9f9;
+    overflow-x: hidden;
+    padding-top: 60px;
+    transition: 0.2s;
+}
+
+.side-nav a{
+    padding: 10px 10px 10px 30px;
+    text-decoration: none;
+    font-size: 22px;
+    color:#373737;
+    display:block;
+    transition: 0.2s;
+
+}
+
+.side-nav a:hover{
+    
+    color: #FF3B3F;
+    
+}
+
+.side-nav .btn-close{
+    position: absolute;
+    top:5px;
+    right: 100px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.sidebar{
+    
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 250px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #f9f9f9; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 0px;
+  margin-top: 75px;
+  transition: 0.2s;
+        }
+
+.sidebar a{
+    padding: 10px 10px 10px 55px;
+    text-decoration: none;
+    font-size: 22px;
+    color:#373737;
+    display:block;
+    transition: 0.2s;
+    max-width:90px;
+    
+    
+}
+
+.sidebar a:hover{
+    
+    color: #FF3B3F;
+
+}
+
+
+
+
+.fullpagewrapper {
+    
+    margin-left: 250px;
+    
+    margin-top: 30px;
+    
+    padding-left:15px;
+    
+    padding-right:1%;
+    
+    padding-top: 30px;
+
+    display: grid;
+    
+    grid-gap: 1em;
+        
+    transition: 0.2s;
+    
+    background-color: #f9f9f9;
+}
+
+
+
+.portfolio_content{
+    
+    display: grid;
+    
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    grid-gap = 1em;
+        
+}
+
+
+.portfolio_text{
+    
+    max-width: 60%;
+    
+}
+
+.home_content{
+    
+    display: grid;
+    grid-template-columns: 1fr;
+    
+}
+
+.home_content h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+
+.home_content h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.home_content p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding: 0px;
+    margin: 10px 0px;
+}
+
+.home_content a{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: rebeccapurple;
+}
+
+.home_content a:hover{
+    
+    color:  #FF3B3F;
+    
+}
+
+.portfolio_item{
+    
+    background: #373737;
+    
+    border-radius: 10px;
+    
+    padding: 1em;
+   
+    margin: 1em 5% 1em 0em;
+    
+    height: 220px;
+    
+    min-width: 200px;
+    
+    
+    box-shadow: 5px 5px 10px #aaa;
+    
+    background-repeat:no-repeat;
+    background-size: cover ;
+    background-position:center;
+    position: relative;
+    
+    transition: 0.1s;
+    
+    filter:brightness(90%);
+    
+
+}
+
+.portfolio_item:hover{
+    
+   filter: brightness(100%);
+     
+} 
+
+
+
+.portfolio_item_content{
+    
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    
+    background-color: rgba(10,10,10,0.8);
+    border-radius: 10px;
+    width: auto;
+    min-width: 130px;
+    padding: 1em;
+    
+    max-width: 280px;
+  
+}
+
+
+
+#hover-content {
+    
+    display: none;
+    
+}
+
+.portfolio_item_content:hover #hover-content {
+    
+    display: block;
+}
+
+.portfolio_item_content h2{
+    
+    font-family: 'Open Sans' sans-serif;
+    color: #fdfdfd;
+    font-size: 18px;
+    margin: 0;
+    font-style: bolder;
+
+}
+
+.portfolio_item_content p{
+    
+    color: #fdfdfd;
+    font-size: 14px;
+    margin: 0;
+    
+}
+
+.project_title h2{
+    
+    font-weight: bold;
+}
+
+.project_title a{
+    
+    text-decoration: none;
+    font-size: 16px;
+    color: rebeccapurple;
+    font-weight: lighter;
+}
+
+.project_title a:hover{
+    
+    text-decoration: none;
+    font-size: 16px;
+    color: #FF3B3F;
+}
+
+.project_text{
+    
+    width: 80%;
+    text-align: justify;
+    
+}
+
+.project_text h2{
+    
+    font-weight: bold;
+}
+
+.project_text h3{
+    
+    font-weight: bold;
+}
+
+.project_text a{
+    color: rebeccapurple;
+    font-size: 18px;
+}
+
+
+.project_text a:hover{
+    color: #FF3B3F;
+ font-size: 18px;
+}
+
+
+
+
+
