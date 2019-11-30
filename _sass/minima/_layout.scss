@@ -357,14 +357,7 @@
     
     //border-radius: 20px;
     
-    @include media-query($on-palm) {
-
-        width:100%;  
-        margin: 20px 10px;
-    }
-    
-    
-      box-shadow: -6px 6px 6px #888888;
+    box-shadow: -6px 6px 6px #888888;
 
     &:hover{
     
@@ -372,6 +365,22 @@
              top: -6px;
         
     }
+    
+    @include media-query($on-palm) {
+
+        width:100%;  
+        margin: 20px 10px;
+        
+        &:hover{
+    
+        position: relative; 
+             top: 0px;
+        
+    }
+    }
+    
+    
+      
     
 
     
