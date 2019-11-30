@@ -1,0 +1,178 @@
+I"|<h2 id="abstract">Abstract</h2>
+
+<p>Two within subjects studies, on 20 sighted users and 20 visually impaired users</p>
+
+<p><em>Within Subjects</em> because two independent variables, 4 experimental configurations, each participant goes through all four</p>
+
+<p>Tasks - Point estimation and point comparison</p>
+
+<p><strong>Quick Summary</strong></p>
+<ul>
+  <li>Tone was faster than speech</li>
+  <li>Speech was more accurate than tone</li>
+  <li>Parallel was faster than Serial</li>
+  <li>Visually impaired users were faster than sighted users</li>
+  <li><em>Users showed strong preference to the serial speech technique</em></li>
+</ul>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Visual representations of Math data exist, and are important because they have a bunch of benefits and affordances for tasks. While screen readers work, they only allow VI users to access pre-determined information, and not make new inferences of their own.</p>
+
+<p>Past research has tried to make this more acessible to VI - tangible graphs and auditory graphs.</p>
+
+<p>In auditory graphs - speech v tone, serial v parallel</p>
+
+<p>Reason for re-investigating: advances in tech and the perception of speech digitally</p>
+
+<h2 id="related-work">Related Work</h2>
+
+<blockquote>
+  <p>… we argue that comparison and estimation are the most common uses of a bar graph.</p>
+</blockquote>
+
+<p>From Ramloll et al. -</p>
+
+<blockquote>
+  <p>… making data available in non-speech audio form
+resulted in lower subjective workload and higher task successes and significantly lower
+mean task completion time</p>
+</blockquote>
+
+<p>From Peres et al. -</p>
+
+<p>Does redundant information presentation work.<br />
+Pitch and Loudness - Yes (Integral Parameters)<br />
+Pitch and Timing - No (Separable Parameters)</p>
+
+<blockquote>
+  <p>While sonification gives a quick overview of the data and reduces cognitive load for tabular and graph datasets, it cannot provide an absolute perception of value at a point. Speech-based auditory graphs, on the other hand, can provide exact value at a point.</p>
+</blockquote>
+
+<h2 id="design-of-auditory-graphs">Design of Auditory Graphs</h2>
+
+<h3 id="serial---parallel">Serial - Parallel</h3>
+
+<h3 id="speech---tone">Speech - Tone</h3>
+
+<p>X - axis may be ordinal, natural progression, unrelated progression</p>
+
+<p>Y - axis would only be numerical, hence chosen to be depicted by auditory information</p>
+
+<h3 id="auditory-graphs">Auditory Graphs</h3>
+
+<p>Choice of data - such that participants were not too familiar with it and hence required to use graphs to complete the tasks</p>
+
+<p>Four datasets - Rural Population, Surface Area, Tuberculosis, Total Population</p>
+
+<p>Two kinds of graphs - Short and Long</p>
+
+<p>Four experimental setups  - PT PS ST SS</p>
+
+<p>4<em>2</em>4 = 32 Auditory Graphs</p>
+
+<blockquote>
+  <p>The audio representing the X-axis was always played to the right ear and the audio representing the Y-axis was always played to the left ear</p>
+</blockquote>
+
+<p><strong>Simple Navigation</strong> to control for the effect of other modalities</p>
+
+<h2 id="method">Method</h2>
+
+<p>The two within-subjects studies compared speed errors and preference.</p>
+
+<p>4 modes, each mode 2 graphs, each graph 3 questions (highest point, lowest point, two similar points) –&gt; 24 tasks per user</p>
+
+<p>Training protocol</p>
+<ul>
+  <li>Explain bar graphs, visual and tactile examples</li>
+  <li>Explain 4 modes of auditory graphs</li>
+  <li>One questions for each mode</li>
+</ul>
+
+<blockquote>
+  <p>After the participant had told the answer(s), s/he was told if his/her answer was correct and if not, the error rank (see below). This was done to keep the participant engaged
+with the study.</p>
+</blockquote>
+
+<p>System Usability Score Questionnaire at the end</p>
+
+<p><strong>Dependent Variables</strong></p>
+<ul>
+  <li>Task Time</li>
+  <li>Error Rank</li>
+  <li>SUS Score</li>
+</ul>
+
+<h3 id="participants">Participants</h3>
+
+<h3 id="experiment-apparatus">Experiment Apparatus</h3>
+
+<h2 id="results">Results</h2>
+
+<p>Two within subjects repeated measures ANOVA</p>
+
+<p>Dependent Variables -</p>
+<ul>
+  <li>Time</li>
+  <li>Error</li>
+</ul>
+
+<p>Independent Variables -</p>
+<ul>
+  <li>Parallel v Serial</li>
+  <li>Tone v Speech</li>
+  <li>Long v Short</li>
+  <li>3 Tasks</li>
+  <li>Sighted v Blind</li>
+</ul>
+
+<p><strong>Results</strong></p>
+<ul>
+  <li>Tone is faster than speech</li>
+  <li>Parallel is faster than serial</li>
+  <li>Short Graphs are faster than Long Graphs</li>
+  <li>Task 1 is faster than Task 2 and 3</li>
+  <li>
+    <p>VI participants were faster than sighted ones</p>
+  </li>
+  <li>Speech is more accurate than tone</li>
+  <li>Short Graphs are more accurate than long graphs</li>
+  <li>Task 1 is more accurate than task 2 and 3</li>
+</ul>
+
+<h3 id="tone-v-speech">Tone v Speech</h3>
+
+<blockquote>
+  <p>Thus, though tone improved user speed in comparison with speech to an extent, it did so at the cost of accuracy. The implication to design is that if it is important that the users interpret the data accurately, speech works better though task time may increase</p>
+</blockquote>
+
+<h3 id="serial-v-parallel">Serial v Parallel</h3>
+
+<h3 id="graph-length">Graph Length</h3>
+
+<h3 id="task">Task</h3>
+
+<p><strong>Types of task</strong> - Max (1 value), Compare (2 values), Minimum (3 values)</p>
+
+<h3 id="user-type">User Type</h3>
+
+<h3 id="significant-interactions">Significant Interactions</h3>
+
+<p>No significant interactions between the two main independent variables</p>
+
+<h3 id="user-preference">User Preference</h3>
+
+<h3 id="qualitative-findings">Qualitative Findings</h3>
+
+<blockquote>
+  <p>We noticed that users rarely used the up arrow to repeat a bar, preferring instead to go back and forth with left and right arrow keys, leading to more repetitions. When asked why, they mentioned it helped get a better relational reference.</p>
+</blockquote>
+
+<h2 id="discussion">Discussion</h2>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<h2 id="references">References</h2>
+
+:ET

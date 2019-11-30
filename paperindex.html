@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+{% for papers in site.papers %}
+  <h2>
+    <a href="/compendium{{papers.url}}" target="_blank">
+      {{papers.title}} 
+    </a>
+  </h2>
+  <p>{{ papers.summary | markdownify }}</p>
+{% endfor %}
