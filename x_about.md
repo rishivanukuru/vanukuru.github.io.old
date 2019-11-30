@@ -7,3 +7,5 @@ permalink: /about/
 Hello there, I'm Rishi. 
 
 I'm currently a Master's student at IDC School of Design, IIT Bombay.
+
+Will write songs for Cornettos.
