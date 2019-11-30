@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: page_v2
 title: About
 permalink: /about/
 ---
 
-My name is Rishi, and I'm currently a Master's student at IDC School of Design, IIT Bombay.
+Hello there, I'm Rishi. 
+
+I'm currently a Master's student at IDC School of Design, IIT Bombay.

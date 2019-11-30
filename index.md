@@ -25,6 +25,7 @@ title: Home
     
   </h1>
   <p>{{ projects.summary | markdownify }}</p>
+  <p><i>{{ projects.duration | markdownify }}</i></p>
 </div>
 </div>
 </a>
