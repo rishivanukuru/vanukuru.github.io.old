@@ -9,6 +9,7 @@ layout: post_v2
 title: Home
 ---
 
+
 <div class = "something">
 {% for projects in site.projects %}
 {% if projects.category != "test"%}
