@@ -30,6 +30,7 @@
   @include media-query($on-palm) {
     padding-right: 45px;
   }
+    
     &:hover {
     color: $brand-color;
     //text-decoration: underline;
@@ -215,7 +216,7 @@
  * Page content
  */
 .page-content {
-    margin-top: 40px;
+    margin-top: 4%;
   padding: $spacing-unit 0;
   flex: 1 0 auto;
 }
