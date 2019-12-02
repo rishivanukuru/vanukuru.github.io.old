@@ -2,7 +2,7 @@
 layout: page
 title: Coursework and Other Projects
 author: Rishi Vanukuru
-summary: Summary Text Here
+summary: 
 duration: 2014 onward
 thumbnail: /media/projectone/testpicture.png
 category: project

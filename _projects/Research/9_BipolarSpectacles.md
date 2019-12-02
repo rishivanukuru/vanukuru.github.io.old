@@ -2,7 +2,7 @@
 layout: page
 title: Bipolar Spectacles
 author: Rishi Vanukuru
-summary: Summary Text Here
+summary: 
 duration: Autumn 2017
 thumbnail: /media/projectone/testpicture.png
 category: project

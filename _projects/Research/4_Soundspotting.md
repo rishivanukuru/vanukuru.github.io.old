@@ -2,7 +2,7 @@
 layout: page
 title: Soundspotting
 author: Rishi Vanukuru
-summary: Summary Text Here
+summary: 
 duration: Winter 2018
 thumbnail: /media/projectone/testpicture.png
 category: project

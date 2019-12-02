@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Musical Performance in VR
+title: Musical Expression in VR
 author: Rishi Vanukuru
-summary: Summary Text Here
+summary: 
 duration: Autumn 2019
 thumbnail: /media/projectone/testpicture.png
 category: project

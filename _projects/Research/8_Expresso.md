@@ -2,7 +2,7 @@
 layout: page
 title: Expresso
 author: Rishi Vanukuru
-summary: Summary Text Here
+summary: 
 duration: Spring 2019
 thumbnail: /media/projectone/testpicture.png
 category: project
