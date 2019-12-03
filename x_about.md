@@ -4,6 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hello there, I'm Rishi. 
+<p align="center">
 
-I'm currently a Master's student at IDC School of Design, IIT Bombay.
+My name is Rishi. <br>
+
+I'm currently a Master's student in Interaction Design, <br>
+
+at the IDC School of Design, IIT Bombay. <br>
+
+
+<img src="/media/Heart_Ace.jpg" width="270" />
+
+</p>

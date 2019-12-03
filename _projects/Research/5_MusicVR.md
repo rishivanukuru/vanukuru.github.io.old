@@ -2,7 +2,7 @@
 layout: page
 title: Musical Expression in VR
 author: Rishi Vanukuru
-summary: 
+summary: Building visual intuition of music theory concepts through responsive virtual landscapes
 duration: Autumn 2019
 thumbnail: /media/thumbnails/musicvr2.png
 category: project
