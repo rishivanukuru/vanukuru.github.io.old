@@ -4,7 +4,7 @@ title: Expresso
 author: Rishi Vanukuru
 summary: 
 duration: Spring 2019
-thumbnail: /media/projectone/testpicture.png
+thumbnail: /media/thumbnails/expressothumbnail3.png
 category: project
 permalink: /expresso/
 

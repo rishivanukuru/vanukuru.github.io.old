@@ -4,7 +4,7 @@ title: Bipolar Spectacles
 author: Rishi Vanukuru
 summary: 
 duration: Autumn 2017
-thumbnail: /media/projectone/testpicture.png
+thumbnail: /media/thumbnails/BSthumbnail.jpg
 category: project
 permalink: /bipolarspectacles/
 

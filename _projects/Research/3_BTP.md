@@ -4,7 +4,7 @@ title: Bio-inspired Network Design
 author: Rishi Vanukuru
 summary: 
 duration: Autumn 2017
-thumbnail: /media/projectone/testpicture.png
+thumbnail: /media/thumbnails/btpthumb.png
 category: project
 permalink: /multimodaltransport/
 
