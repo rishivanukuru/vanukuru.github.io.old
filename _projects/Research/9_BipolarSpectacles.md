@@ -1,4 +1,5 @@
 ---
+
 layout: page
 title: Bipolar Spectacles
 author: Rishi Vanukuru
