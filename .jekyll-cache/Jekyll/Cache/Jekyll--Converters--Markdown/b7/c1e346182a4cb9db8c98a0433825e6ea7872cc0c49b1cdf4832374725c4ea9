@@ -1,0 +1,25 @@
+I"�<p>Expresso was an Interactive Installation created for TypoDay 2019.</p>
+
+<p>We created an ‘expressive typewriter’, where the strength and pressure of a key-press directly influenced the thickness and width of the resultant glyph on screen.</p>
+
+<p>We built the typewriter on top of two MIDI electronic keyboards (to be able to capture the key-press pressure), and used the MIDI messages to render different types of a <strong><a href="https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts/">Variable Font</a></strong> through a JavaScript file.</p>
+
+<p>Initially, the setup looked something like this:</p>
+
+<p><img src="\media\expresso\Expresso1.jpg" alt="ExpressoOne" /></p>
+
+<p><br /></p>
+
+<p>Eventually, the keyboards came together and looked a bit cleaner:</p>
+
+<p><img src="\media\expresso\Expresso2.jpg" alt="ExpressoTwo" /></p>
+
+<p><br /></p>
+
+<p>A demo of the final setup can be viewed below:</p>
+
+<p><br /></p>
+
+<iframe class="video" src="https://www.youtube.com/embed/GtJbb7XHSJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+:ET

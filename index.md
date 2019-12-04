@@ -12,7 +12,7 @@ title: Home
 
 <div class = "something">
 {% for projects in site.projects %}
-{% if projects.category != "test"%}
+{% if projects.category == "project"%}
 <a href="{{projects.url}}"  class = "somethingelse" >
     <div class = "imageholder" style = " background-image: url({{projects.thumbnail}});  background-size: cover; background-repeat: no-repeat; background-position: center center;">
     </div>
