@@ -27,13 +27,13 @@ Currently, work is being directed towards designing ways to experience the same 
 
 The Hardware prototype looked like this:
 
-![ssthumbnail3](\media\soundspotting\SS2small.jpg)
+![ssthumbnail3](\media\Soundspotting\SS2small.jpg)
 
 <br>
 
 The visual setup within Unity (for the soundscape): 
 
-![ssthumbnail4](\media\soundspotting\SS3small.jpg)
+![ssthumbnail4](\media\Soundspotting\SS3small.jpg)
 
 <br>
 
