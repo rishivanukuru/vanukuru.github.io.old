@@ -10,7 +10,7 @@ permalink: /soundspotting/
 
 ---
 
-![ssthumbnail2](\media\soundspotting\SS1small.jpg)
+![ssthumbnail2](\media\Soundspotting\SS1small.jpg)
 
 <br>
 
